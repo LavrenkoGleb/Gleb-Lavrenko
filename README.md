@@ -44,4 +44,15 @@ echo "Copying completed."
 - Копирует файлы из входной директории в выходную директорию.
 
 # Техническое задание №3(ТЗ№3)
+## Диаграмма вариантов использования:
 ![Image alt](https://github.com/LavrenkoGleb/Gleb-Lavrenko/blob/main/Диаграмма%20вариантов%20использования.png)
+## Диаграмма последовательности для процесса заказа еды через приложение:
+![Image alt](https://github.com/LavrenkoGleb/Gleb-Lavrenko/blob/main/Диаграмма%20последовательности.png)
+## Диаграмма состояний для заказа:
+![Image alt](https://github.com/LavrenkoGleb/Gleb-Lavrenko/blob/main/Диаграмма%20состояний%20для%20заказа.png)
+## Диаграмма деятельности для описания процесса обработки заказа системой:
+![Image alt](https://github.com/LavrenkoGleb/Gleb-Lavrenko/blob/main/Диаграмма%20деятельности.png)
+## Диаграмма классов для системы:
+![Image alt](https://github.com/LavrenkoGleb/Gleb-Lavrenko/blob/main/Диаграмма%20классов%20для%20системы.png)
+
+
